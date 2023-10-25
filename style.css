@@ -1,0 +1,18 @@
+
+    h2{
+    color:rgb(112, 184, 225);
+    font-size: 35px;
+    text-transform: lowercase;
+    text-align: center;
+    text-decoration: underline;
+    }
+
+    #vocab-def{
+    color:rgb(235, 140, 233);
+    font-size:20px;
+    }   
+
+
+    *{
+        background-color: rgb(241, 226, 241);
+    }
